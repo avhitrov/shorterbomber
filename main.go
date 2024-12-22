@@ -13,7 +13,7 @@ import (
 
 const (
 	limit   = 20
-	postReq = "http://192.168.75.1:8080/"
+	postReq = "http://127.0.0.1:8080/"
 	file    = "urls.txt"
 )
 
